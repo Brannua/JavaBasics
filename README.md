@@ -2,6 +2,16 @@
 
 ![20230306203809](https://aliyun-oss-lpj.oss-cn-qingdao.aliyuncs.com/images/by-clipboard/20230306203809.png)
 
+### why
+
+Java is general-purpose, which means it can do anything. Such as web-development、android-development、automation、machine-learning、...
+
+Java can run on any machine, it's well known for its "write once, run anywhere"
+
+Java is the No.1 language for developing enterprise applications
+
+Java is the most in-demand programming language
+
 ### homework
 
 50 quizzes、130+ workbooks、10 challenges
