@@ -2,7 +2,7 @@
 
 ![20230306203809](https://aliyun-oss-lpj.oss-cn-qingdao.aliyuncs.com/images/by-clipboard/20230306203809.png)
 
-### why
+## why
 
 Java is general-purpose, which means it can do anything. Such as web-development、android-development、automation、machine-learning、...
 
@@ -12,11 +12,11 @@ Java is the No.1 language for developing enterprise applications
 
 Java is the most in-demand programming language
 
-### homework
+## homework
 
 50 quizzes、130+ workbooks、10 challenges
 
-### Module 1: Java Fundamentals
+## Module 1: Java Fundamentals
 
 Variables: store information
 
@@ -28,7 +28,7 @@ Arrays: store and work with many values
 
 Functions: perform tasks
 
-### Module 2: Object-Oriented Programming
+## Module 2: Object-Oriented Programming
 
 Use **objects** to write high-quality code
 
