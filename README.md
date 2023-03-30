@@ -1,26 +1,8 @@
 [初学编程的常见误区](https://www.bilibili.com/video/BV1c54y1U7pp)
 
-# The world's best java-boot-camp
+# The Complete Java Bootcamp
 
-![20230306203809](https://aliyun-oss-lpj.oss-cn-qingdao.aliyuncs.com/images/by-clipboard/20230306203809.png)
-
-## why
-
-Java is general-purpose, which means it can do anything. Such as web-development、android-development、automation、machine-learning、...
-
-Java can run on any machine, it's well known for its "write once, run anywhere"
-
-Java is the No.1 language for developing enterprise applications
-
-Java is the most in-demand programming language
-
-## homework
-
-50 quizzes、130+ workbooks、10 challenges
-
-[Learn-The-Part](https://www.learnthepart.com/course/2dfda34d-6bbc-4bd5-8f45-d5999de2f514/a0d30d63-16f5-4702-992a-77b560cbeddd)
-
-[Bootcamp-Resources](https://github.com/rslim087a/Java-Bootcamp-Resources)
+![image-20230330001856416](https://aliyun-oss-lpj.oss-cn-qingdao.aliyuncs.com/images/by-clipboard/image-20230330001856416.png)
 
 ## Module 1: Java Fundamentals
 
@@ -34,15 +16,34 @@ Arrays: store and work with many values
 
 Functions: perform tasks
 
-## Module 2: Object-Oriented Programming
+## Module 2: Object Oriented Programming
 
-Use **objects** to write high-quality code
+objects、immutable objects、list collections、map collections、exception handling、
 
-Apply **exception handling** to produce reliable code
+package and import、static and final、enums、unit test、inheritance and polymorphism、
 
-Write **unit test** to avoid bugs and publish your code
+higher order functions、big decimal、interface、concurrency and multithreading
 
-Add **inheritance and polymorphism** to promote code reusability
+## workbooks and challenges
 
-**Concurrency and Multithreading**: optimize performance
+Every lesson is followed by a workbook which will give you the chance to practise coding based on lessons that we just covered.
 
+After every section, you will solve a big coding challenge that brings all of the lessons together.
+
+## Reasons to learn Java
+
+Java is the most in-demand programming language
+
+Java can run on any machine, it's well known for its "write once, run anywhere"
+Tips: this is because the Java Virtual Machine, the JVM, which is responsible for executing compiled Java code, can be installed on any platform
+
+Java is general-purpose, which means that Java powers a wide range of applications.
+As a Java developer,
+	you can build web applications using Spring boot,
+	you can build applications on Android,
+	you can automate tasks using Selenium,
+	you can develop cloud native applications,
+	you can integrate microservices,
+	...
+
+Java is the No.1 language for developing enterprise application
