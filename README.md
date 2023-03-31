@@ -44,6 +44,6 @@ As a Java developer,
 - you can automate tasks using Selenium,
 - you can develop cloud native applications,
 - you can integrate microservices,
-...
+- you can ...
 
 Java is the No.1 language for developing enterprise applications
