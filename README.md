@@ -46,4 +46,4 @@ As a Java developer,
 	you can integrate microservices,
 	...
 
-Java is the No.1 language for developing enterprise application
+Java is the No.1 language for developing enterprise applications
