@@ -39,11 +39,11 @@ Tips: this is because the Java Virtual Machine, the JVM, which is responsible fo
 
 Java is general-purpose, which means that Java powers a wide range of applications.
 As a Java developer,
-	you can build web applications using Spring boot,
-	you can build applications on Android,
-	you can automate tasks using Selenium,
-	you can develop cloud native applications,
-	you can integrate microservices,
-	...
+- you can build web applications using Spring boot,
+- you can build applications on Android,
+- you can automate tasks using Selenium,
+- you can develop cloud native applications,
+- you can integrate microservices,
+...
 
 Java is the No.1 language for developing enterprise applications
