@@ -1,6 +1,6 @@
 [初学编程的常见误区](https://www.bilibili.com/video/BV1c54y1U7pp)
 
-# The Complete Java Bootcamp
+# Java Bootcamp
 
 ![image-20230330001856416](https://aliyun-oss-lpj.oss-cn-qingdao.aliyuncs.com/images/by-clipboard/image-20230330001856416.png)
 
