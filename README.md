@@ -21,12 +21,6 @@ package and import、static and final、enums、unit test、inheritance and poly
 
 higher order functions、big decimal、interface、concurrency and multithreading
 
-## workbooks and challenges
-
-Every lesson is followed by a workbook which will give you the chance to practise coding based on lessons that we just covered.
-
-After every section, you will solve a big coding challenge that brings all of the lessons together.
-
 ## Reasons to learn Java
 
 Java is the most in-demand programming language
