@@ -35,7 +35,7 @@ As a Java developer,
 - you can ...
 
 Java can run on any machine, it's well known for its "write once, run anywhere"
-  - Tips: this is because the Java Virtual Machine, the JVM, which is responsible for executing compiled Java code, can be installed on any platform
+  - This is because the Java Virtual Machine, the JVM, which is responsible for executing compiled Java code, can be installed on any platform
 
 Java is the No.1 language for developing enterprise applications
 
